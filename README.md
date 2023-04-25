@@ -28,7 +28,7 @@
     
 ## ✨ ʜᴏsᴛ ᴀɪ ᴏɴ ʜᴇʀᴏᴋᴜ✨
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/TheTeamAlexa/AlexaAiMachineBot"> <img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ʜᴇʀᴏᴋᴜ-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/onenonlybotz/AlexaAiMachineBot"> <img src="https://img.shields.io/badge/ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ʜᴇʀᴏᴋᴜ-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## ✨ ʜᴏsᴛ ᴀɪ ᴏɴ sᴄᴀʟɪɴɢᴏ ғᴏʀ 30 ᴅᴀʏs ғʀᴇᴇ ᴡɪᴛʜ ᴜɴʟɪɴɪᴛᴛᴇᴅ ᴅʏɴᴏs✨
 
