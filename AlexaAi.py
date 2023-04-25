@@ -56,11 +56,11 @@ async def chatbot(client, message):
 ━━━━━━━━━━━━━━━━━
 ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴅɪᴠɪɴᴇ](https://t.me/DivineHero)
-┣★ ᴄʜᴀᴛɢʀᴏᴜᴘ  [ᴄʜᴀᴛɢʀᴏᴜᴘ](https://t.me/National_chatting_Groups)
+┣★ ᴄʀᴇᴀᴛᴇʀ [Dabang](https://t.me/@SexyAaditya)
+┣★ ᴄʜᴀᴛɢʀᴏᴜᴘ  [ᴄʜᴀᴛɢʀᴏᴜᴘ](https://t.me/DabangTheBrand)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @DivineHero""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @SexyAaditya""",
     ) 
 
 
